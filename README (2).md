@@ -29,6 +29,5 @@ Your goal is to:
 
 2. Run PCA on the matrix and project these 2-D points on PC1. Generate Fgure 1c.
 
-See the plot below.
+See the plot below in back jpeg file 
 
-![pca](./pca.png)
