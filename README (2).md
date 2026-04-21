@@ -30,4 +30,5 @@ Your goal is to:
 2. Run PCA on the matrix and project these 2-D points on PC1. Generate Fgure 1c.
 
 See the plot below in back jpeg file 
+![pca](./pca.png)<img width="993" height="610" alt="pca" src="https://github.com/user-attachments/assets/b9436337-1c32-4942-97e3-4df9964488db" />
 
